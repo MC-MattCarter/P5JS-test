@@ -1,5 +1,5 @@
 //Goal: Create a sort of Mad Libs theme for a news article where certain words are swapped out for others using an array and jQuery functions.
-//Result: Successfully got words to be swapped out at the press of a button so the news article looks really funky from a story/content aspect but is also quite funny to read. In the future I could maybe expand upon this by letting the user physically type certain inquiries such as people, verbs, companies, numbers, and stuff like an actual mad libs game.
+//Result: Successfully got words to be swapped out at the press of a button so the news article looks really funky from a story/content aspect but is also quite funny to read (it only took me 5 hours of almost putting my fist through the screen when I spent 2.5 hours trying to figure out why my code wasnt working when there was a single typo). I also added a couple of pictures in too. In the future I could maybe expand upon this by letting the user physically type certain inquiries such as people, verbs, companies, numbers, and stuff like an actual mad libs game.
 
 
 $(document).ready(function() {
